@@ -1,0 +1,7 @@
+< DOCTYPE html>
+<html>
+<head>
+<title>Objek-objek Wisata Sumatera Utara(TERLENGKAP)</title>
+<link href="css/templatemo_style.css" rel="stylesheet" type="text/css" />
+</head>
+</html>
